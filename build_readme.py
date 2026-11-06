@@ -35,6 +35,10 @@ README = ROOT / "README.md"
 N_RELEASES = 6
 N_PUSHED = 6
 
+# Cap entries per repo so one frequently-tagged project cannot fill the whole
+# releases column and make it look like the only thing being worked on.
+PER_REPO_RELEASES = 2
+
 # Repos never worth listing: the profile repo itself is noise, and forks are
 # not the author's own work.
 SKIP_REPOS = {USER.lower(), USER}
@@ -114,8 +118,20 @@ def releases_md(repos: list[dict]) -> str:
     if not found:
         return "_No releases published yet._"
 
+    # Newest first, but at most PER_REPO_RELEASES from any single repo.
+    seen: dict[str, int] = {}
+    kept: list[tuple[str, str, str, str]] = []
+    for entry in found:
+        repo = entry[1]
+        if seen.get(repo, 0) >= PER_REPO_RELEASES:
+            continue
+        seen[repo] = seen.get(repo, 0) + 1
+        kept.append(entry)
+        if len(kept) >= N_RELEASES:
+            break
+
     lines = []
-    for when, repo, label, url in found[:N_RELEASES]:
+    for when, repo, label, url in kept:
         title = label if label.lower().startswith(repo.lower()) else f"{repo} {label}"
         lines.append(f"[{title}]({url}) - {fmt_date(when)}")
     return "\n\n".join(lines)
