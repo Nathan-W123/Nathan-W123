@@ -34,19 +34,37 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 
 ### Recent releases
 <!-- releases starts -->
-_Filled automatically._
+[Kumi v0.5.17](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.17) - 2026-09-04
+
+[Kumi v0.5.16](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.16) - 2026-09-04
+
+[Kumi 0.5.15](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.15) - 2026-09-03
+
+[Kumi 0.5.14](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.14) - 2026-09-02
+
+[Kumi 0.5.13](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.13) - 2026-09-02
 <!-- releases ends -->
 </td><td valign="top" width="50%">
 
 ### Recently pushed
 <!-- pushed starts -->
-_Filled automatically._
+**[Website](https://github.com/Nathan-W123/Website)** - 2026-11-06
+
+**[SASD-HFML-Project](https://github.com/Nathan-W123/SASD-HFML-Project)** - 2026-11-06<br><sub>Repo to automate the SASD high frequency mainline frequency changes, mapping, and queries</sub>
+
+**[springback-precomp](https://github.com/Nathan-W123/springback-precomp)** - 2026-10-24
+
+**[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-10-23
+
+**[CFD-ML](https://github.com/Nathan-W123/CFD-ML)** - 2026-10-22
+
+**[autocal-lite-](https://github.com/Nathan-W123/autocal-lite-)** - 2026-10-20
 <!-- pushed ends -->
 </td></tr></table>
 
 <sub>
 <!-- updated starts -->
-<i>The two columns above fill in on the next scheduled run.</i>
+Updated automatically on 2026-11-06.
 <!-- updated ends -->
 &mdash; <a href="https://github.com/Nathan-W123/Nathan-W123/blob/main/.github/workflows/build-readme.yml">how this works</a>.
 </sub>
