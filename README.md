@@ -37,12 +37,6 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 [Kumi v0.5.17](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.17) - 2026-09-04
 
 [Kumi v0.5.16](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.16) - 2026-09-04
-
-[Kumi 0.5.15](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.15) - 2026-09-03
-
-[Kumi 0.5.14](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.14) - 2026-09-02
-
-[Kumi 0.5.13](https://github.com/Nathan-W123/Kumi/releases/tag/desktop-v0.5.13) - 2026-09-02
 <!-- releases ends -->
 </td><td valign="top" width="50%">
 
