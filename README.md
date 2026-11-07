@@ -58,7 +58,7 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 
 <sub>
 <!-- updated starts -->
-Updated automatically on 2026-11-06.
+Updated automatically on 2026-11-07.
 <!-- updated ends -->
 &mdash; <a href="https://github.com/Nathan-W123/Nathan-W123/blob/main/.github/workflows/build-readme.yml">how this works</a>.
 </sub>
