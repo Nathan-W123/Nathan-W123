@@ -42,23 +42,23 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 
 ### Recently pushed
 <!-- pushed starts -->
-**[Website](https://github.com/Nathan-W123/Website)** - 2026-11-10
+**[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-11-11
 
-**[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-11-10
+**[SparLab](https://github.com/Nathan-W123/SparLab)** - 2026-11-11
+
+**[FEA-Structural-Analysis](https://github.com/Nathan-W123/FEA-Structural-Analysis)** - 2026-11-11
+
+**[Website](https://github.com/Nathan-W123/Website)** - 2026-11-10
 
 **[SASD-HFML-Project](https://github.com/Nathan-W123/SASD-HFML-Project)** - 2026-11-10<br><sub>Repo to automate the SASD high frequency mainline frequency changes, mapping, and queries</sub>
 
 **[springback-precomp](https://github.com/Nathan-W123/springback-precomp)** - 2026-10-24
-
-**[CFD-ML](https://github.com/Nathan-W123/CFD-ML)** - 2026-10-22
-
-**[autocal-lite-](https://github.com/Nathan-W123/autocal-lite-)** - 2026-10-20
 <!-- pushed ends -->
 </td></tr></table>
 
 <sub>
 <!-- updated starts -->
-Updated automatically on 2026-11-10.
+Updated automatically on 2026-11-11.
 <!-- updated ends -->
 &mdash; <a href="https://github.com/Nathan-W123/Nathan-W123/blob/main/.github/workflows/build-readme.yml">how this works</a>.
 </sub>
