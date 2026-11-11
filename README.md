@@ -44,6 +44,8 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 <!-- pushed starts -->
 **[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-11-11
 
+**[ECI-153-Course-Project](https://github.com/Nathan-W123/ECI-153-Course-Project)** - 2026-11-11
+
 **[SparLab](https://github.com/Nathan-W123/SparLab)** - 2026-11-11
 
 **[FEA-Structural-Analysis](https://github.com/Nathan-W123/FEA-Structural-Analysis)** - 2026-11-11
@@ -51,8 +53,6 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 **[Website](https://github.com/Nathan-W123/Website)** - 2026-11-10
 
 **[SASD-HFML-Project](https://github.com/Nathan-W123/SASD-HFML-Project)** - 2026-11-10<br><sub>Repo to automate the SASD high frequency mainline frequency changes, mapping, and queries</sub>
-
-**[springback-precomp](https://github.com/Nathan-W123/springback-precomp)** - 2026-10-24
 <!-- pushed ends -->
 </td></tr></table>
 
