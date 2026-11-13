@@ -42,9 +42,9 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 
 ### Recently pushed
 <!-- pushed starts -->
-**[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-11-13
-
 **[Galaxy-Collision-Sim](https://github.com/Nathan-W123/Galaxy-Collision-Sim)** - 2026-11-13
+
+**[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-11-13
 
 **[Website](https://github.com/Nathan-W123/Website)** - 2026-11-13
 
