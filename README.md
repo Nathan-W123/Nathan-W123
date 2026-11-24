@@ -42,23 +42,23 @@ I work at the boundary of **experiment and theory**. Spectroscopists measure rot
 
 ### Recently pushed
 <!-- pushed starts -->
+**[Website](https://github.com/Nathan-W123/Website)** - 2026-11-24
+
 **[Quantize](https://github.com/Nathan-W123/Quantize)** - 2026-11-23
 
-**[Website](https://github.com/Nathan-W123/Website)** - 2026-11-22
+**[Quantum-ML](https://github.com/Nathan-W123/Quantum-ML)** - 2026-11-23
 
 **[SASD-HFML-Project](https://github.com/Nathan-W123/SASD-HFML-Project)** - 2026-11-19<br><sub>Repo to automate the SASD high frequency mainline frequency changes, mapping, and queries</sub>
 
 **[Galaxy-Collision-Sim](https://github.com/Nathan-W123/Galaxy-Collision-Sim)** - 2026-11-14
 
 **[ECI-153-Course-Project](https://github.com/Nathan-W123/ECI-153-Course-Project)** - 2026-11-11
-
-**[SparLab](https://github.com/Nathan-W123/SparLab)** - 2026-11-11
 <!-- pushed ends -->
 </td></tr></table>
 
 <sub>
 <!-- updated starts -->
-Updated automatically on 2026-11-23.
+Updated automatically on 2026-11-24.
 <!-- updated ends -->
 &mdash; <a href="https://github.com/Nathan-W123/Nathan-W123/blob/main/.github/workflows/build-readme.yml">how this works</a>.
 </sub>
